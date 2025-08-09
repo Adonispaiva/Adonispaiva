@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adonispaiva
 - 👀 I’m interested in learning to developer systems
 - 🌱 I’m currently learning Análise e Desenvolvimento de sistemas and Análise de Dados
-- 💞️ I’m looking to collaborate on create any applications
+- 
 - 📫 How to reach me e-mail aspaivajr@hotmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
